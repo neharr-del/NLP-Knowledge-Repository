@@ -9,21 +9,21 @@ Why is it Needed?
 
 However, it is necessary to state that in the case of NLP applications, the usage of different variations of the same word means the same. The use of variations of words as separate lexical units will increase the number of such units and make it difficult to analyze the text.
 The benefits obtained through the use of the Stemming technique include the following:
-Vocabulary reduction;
-Improvement of the search accuracy;
-Speed;
-Word clustering.
+Vocabulary reduction;<br>
+Improvement of the search accuracy;<br>
+Speed;<br>
+Word clustering.<br>
 The efficiency of the technique may be observed in those situations when speed prevails over accuracy.
 
 
 Working Principle: 
 
 Stemming algorithm involves removing prefixes and suffixes that are common by following some pre-defined rules.
-These are the general steps involved:
-Read each word.
-Recognize the common suffix like –ing, –ed, –ly, or –s.
-Remove the suffix.
-Return the stem.
+These are the general steps involved: <br>
+Read each word.<br>
+Recognize the common suffix like –ing, –ed, –ly, or –s.<br>
+Remove the suffix.<br>
+Return the stem.<br>
 
 Some common stemming algorithms are:
 Porter Stemming Algorithm
