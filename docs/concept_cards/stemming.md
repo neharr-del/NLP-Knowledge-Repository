@@ -33,17 +33,17 @@ Lancaster Stemming Algorithm
 
 Example :
 
-Input Text
- playing
-played
-player
-plays
+Input Text <br>
+ playing <br>
+played <br>
+player <br>
+plays <br>
 
 Output 
-play
-play
-play
-play
+play <br>
+play <br>
+play <br>
+play <br>
 
 
 Advantages:
