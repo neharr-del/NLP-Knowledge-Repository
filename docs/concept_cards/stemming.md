@@ -25,9 +25,9 @@ Recognize the common suffix like –ing, –ed, –ly, or –s.<br>
 Remove the suffix.<br>
 Return the stem.<br>
 
-Some common stemming algorithms are:
-Porter Stemming Algorithm
-Snowball Stemming Algorithm
+Some common stemming algorithms are:<br>
+Porter Stemming Algorithm<br>
+Snowball Stemming Algorithm<br>
 Lancaster Stemming Algorithm
 
 
