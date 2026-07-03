@@ -1,3 +1,6 @@
+5. Stemming
+
+
 Definition:
 
 The process of stemming involves breaking up the word into its most fundamental form known as “stem.” In some cases, the result of this process may not be a proper English word even though it helps in categorizing similar words.
