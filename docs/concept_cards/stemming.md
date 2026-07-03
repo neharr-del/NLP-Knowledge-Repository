@@ -39,7 +39,7 @@ played <br>
 player <br>
 plays <br>
 
-Output 
+Output <br>
 play <br>
 play <br>
 play <br>
